@@ -1,0 +1,6 @@
+[submodule "paxos"]
+	path = paxos
+	url = ./src/paxos/
+[submodule "kvpaxos"]
+	path = kvpaxos
+	url = ./src/kvpaxos/
